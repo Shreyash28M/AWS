@@ -1,2 +1,3 @@
 # AWS
-aws info
+
+## ec2 qna
